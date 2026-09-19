@@ -1,0 +1,8 @@
+interface:
+  display_name: "Reviewed Motion Explainers"
+  short_description: "Gated HyperFrames explainer workflow"
+  brand_color: "#005A9D"
+  default_prompt: "Use $produce-reviewed-motion-explainers to build a scene-based motion explainer with gated reviews and one final 4K export."
+
+policy:
+  allow_implicit_invocation: true
